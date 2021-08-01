@@ -256,7 +256,7 @@ footer {
 
 /*parte mobile*/
 
-@media (max-width:360px) {
+@media (max-width:700px) {
     .logo {
         display: none;
     }
